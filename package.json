@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Filipe-barbosa/filipeSystem/issues"
   },
-  "homepage": "https://github.com/Filipe-barbosa/filipeSystem#readme"
+  "homepage": "https://github.com/Filipe-barbosa/filipeSystem#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
