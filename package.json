@@ -1,0 +1,20 @@
+{
+  "name": "filipeSystem",
+  "version": "1.0.0",
+  "description": "Um sistema completo com em ReactJS com TypeScript e Hooks, utilizando TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipe-barbosa/filipeSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filipe-barbosa/filipeSystem/issues"
+  },
+  "homepage": "https://github.com/Filipe-barbosa/filipeSystem#readme"
+}
