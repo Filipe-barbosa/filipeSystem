@@ -1,5 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import { Login } from '@/presentation/pages';
+import { render } from 'react-dom';
+import { Router } from '@/presentation/components';
 
-ReactDOM.render(<Login />, document.getElementById('main'));
+const rootElement = document.getElementById('main');
+
+render(<Router />, rootElement);
